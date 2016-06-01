@@ -1,0 +1,38 @@
+body{
+	background-color:#D1BE94;
+	color:#4F3F32;
+	font-size:0.9em;
+	font-family: Georgia, Arial, sans-serif;
+}
+
+table{
+	font-size:0.9em;
+}
+
+.wallSouth{
+	border-bottom:2px solid black;
+	width:20px;
+	height:20px;
+}
+
+.wallNorth{
+	border-top: 2px solid black;
+	width:20px;
+	height:20px;
+}
+
+.wallEast{
+	border-right: 2px solid black;
+	width:20px;
+	height:20px;
+}
+
+.wallWest{
+	border-left: 2px solid black;
+	width:20px;
+	height:20px;
+}
+
+.maze{
+	border-collapse: collapse;
+}
